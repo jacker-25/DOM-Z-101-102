@@ -2,6 +2,7 @@ DOM-Z-101 / DOM-Z-102
 WLED_ETH_DOMRAEM
 Dear customers, you can download the firmware for this product here to perform device updates.
 1. Firmware Installation Guide
+
    a. Open the ESP Web Tool via this link: https://espressif.github.io/esptool-js/
    
    b. Connect your ESP32 WLED controller to your computer with a USB-C cable. Plug the USB end into your PC, then follow the setup steps shown in the screenshot below:
