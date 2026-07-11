@@ -15,7 +15,6 @@ Dear customers, you can download the firmware for this product here to perform d
     <img width="1258" height="964" alt="image" src="https://github.com/user-attachments/assets/d57f9ce0-16d5-4d49-b736-99e55415a286" />
 
 3. Product Purchase
-   You can buy our WLED Ethernet controller from our official store:
-   DOMRAEM Store
+   You can purchase the WLED Ethernet controller at our store: [DOMRAEM Store](https://www.aliexpress.us/item/3256811452767344.html?gatewayAdapt=glo2usa4itemAdapt)
    <img width="467" height="465" alt="DOM-Z-101/102 Product Image" src="https://github.com/user-attachments/assets/5e7a0071-8371-43c8-bc8f-c30269d398cb" />
 
